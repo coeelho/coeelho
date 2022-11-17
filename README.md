@@ -1,7 +1,7 @@
-### こんにちは！😸
+### こんにちは！Me chamo Richard! 😸
 
 <!--
-Me chamo **Richard Coelho**, tenho 18 anos e atualmente estou no segundo semestre de Segurança da Informação
+Ttenho 18 anos e atualmente estou no segundo semestre de Segurança da Informação
 na FATEC de Americana! Já tenho uma formação anterior de Desenvolvimento de Sistemas, que era integrado ao
 Ensino Médio.
 
