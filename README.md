@@ -5,7 +5,6 @@ Tenho 18 anos e atualmente estou no terceiro semestre de Segurança da Informaç
 na FATEC de Americana! Já tenho uma formação anterior de Desenvolvimento de Sistemas, que era integrado ao
 Ensino Médio.
 
-- 🔭 Atualmente estou livre para propostas!
 - 🌱 Estou aprendendo mais sobre Python, Redes e entre outros...
 - 🤔 Desejo aumentar meu conhecimento ajudando ao próximo nesta plataforma!
 - 📫 Contato: <https://www.linkedin.com/in/richard-coelho-6944b9225/>
