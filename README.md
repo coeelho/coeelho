@@ -1,7 +1,7 @@
 ### こんにちは！Me chamo Richard! 😸
 
 
-Tenho 18 anos e atualmente estou no terceiro semestre de Segurança da Informação
+Tenho 19 anos e atualmente estou no sexto semestre de Segurança da Informação
 na FATEC de Americana! Já tenho uma formação anterior de Desenvolvimento de Sistemas, que era integrado ao
 Ensino Médio.
 
