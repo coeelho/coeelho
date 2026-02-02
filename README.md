@@ -8,7 +8,7 @@ Ensino Médio.
 - 🌱 Estou aprendendo mais sobre Python, Redes e entre outros...
 - 🤔 Desejo aumentar meu conhecimento ajudando ao próximo nesta plataforma!
 - 📫 Contato: <https://www.linkedin.com/in/richard-coelho-6944b9225/>
-- ⚡ Curiosidades: Gosto bastante de jogar videogames e aprender novas línguas, como o Japônes!
+- ⚡ Curiosidades: Gosto bastante de jogar videogames e aprender novas línguas, como o Japonês!
 
 <div align="center">
   <a href="https://github.com/rafaballerini">
